@@ -24,7 +24,7 @@
         <article >
         <div  class="pp"></div>
             <p>Hey there!</p>
-            <p> I'm Deepam Dibyajyot. I am a second year student at the University of Waterloo and I am majoring in Computer Science! I am currently looking for internships for Winter 2022 in
+            <p> I'm Deepam Dibyajyot. I am a second year student at the University of Waterloo and I am majoring in Computer Science! I am currently looking for internships for Winter 2023 in
             SWE, Full-Stack, ML/AI and Data Analyst roles.</p>
             <p> I love space, books, anime, gaming and trying out new stuff! Most of the times you'd find me having a deep philosophical conversation with someone or just simply goofing around :> </p>
             <p>You could take a look at all my projects and internship experiences <a href="#projects">here</a>, and feel free to reach out to me <a href="#contact"> here</a>! </p>
