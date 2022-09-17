@@ -1,3 +1,5 @@
+
+
 <script>
 	
 	import LeftPanel from './components/LeftPanel.svelte'
@@ -43,6 +45,15 @@ import BackGround from './components/BackGround.svelte';
 </script>
 <svelte:window on:hashchange={loader} />
 <svelte:head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-N1PDHFPHL7"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-N1PDHFPHL7');
+	</script>
 	<link href="https://fonts.googleapis.com/css?family=Nunito:wght@100;300;400&family=Nunito:wght@300;400;500&display=swap" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
 </svelte:head>
